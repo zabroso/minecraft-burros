@@ -1,0 +1,6 @@
+authtoken: ${NGROK_AUTH_TOKEN}
+tunnels:
+  mc:
+    proto: tcp
+    addr: 25565
+
